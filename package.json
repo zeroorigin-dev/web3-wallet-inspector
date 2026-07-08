@@ -1,0 +1,24 @@
+{
+  "name": "web3-wallet-inspector",
+  "version": "1.1.0",
+  "description": "Client-side Ethereum wallet lookup tool. Balance, transaction count, account type — no API key required.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeroorigin-dev/web3-wallet-inspector.git"
+  },
+  "keywords": [
+    "ethereum",
+    "web3",
+    "wallet",
+    "blockchain",
+    "ethers.js",
+    "qa-testing",
+    "dapp"
+  ],
+  "author": "zeroorigin-dev",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
