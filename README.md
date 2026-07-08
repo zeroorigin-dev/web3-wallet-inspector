@@ -24,7 +24,7 @@ A **single-page, client-side tool** for instantly looking up any Ethereum-compat
 1. Go to your repo **Settings → Pages**
 2. Select **Deploy from branch**
 3. Choose `main` and `/root`
-4. Visit `https://yourusername.github.io/web3-wallet-inspector`
+4. Visit `https://github.com/zeroorigin-dev/web3-wallet-inspector`
 
 ---
 
